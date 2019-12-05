@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">fragmentos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_boton">Cualquier texto</string>
+
+    <string name="informacion">
+        <br>App desarrollda por José Cruz\n</br>
+        <br>para la clase del Mtro. Erik de la carrera\n</br>
+        <br>Lic. En Tecnologías de la Información\n</br>
+        <br>JoseCruzDeAmeca@hotmail.com\n</br>
+    </string>
+
+
+</resources>
